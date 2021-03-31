@@ -1,0 +1,6 @@
+Next Time On DRAGON BALL TERRARIA.
+Intended for use with postmoonlord
+
+-  added stardust fall and death beam.
+-updated infinity bullets formula
+-Fixed insane ki costs on weapons. woopsy <3
